@@ -1,0 +1,13 @@
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\bin\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.exe
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\bin\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.deps.json
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\bin\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.runtimeconfig.json
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\bin\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.runtimeconfig.dev.json
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\bin\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.dll
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\bin\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.pdb
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.csproj.AssemblyReference.cache
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.AssemblyInfoInputs.cache
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.AssemblyInfo.cs
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.csproj.CoreCompileInputs.cache
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.dll
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.pdb
+C:\Users\bobby.henderson\source\repos\HelloWorld_Bobby_Henderson\HelloWorld_Bobby_Henderson\obj\Debug\netcoreapp3.1\HelloWorld_Bobby_Henderson.genruntimeconfig.cache
